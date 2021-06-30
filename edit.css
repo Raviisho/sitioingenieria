@@ -1,0 +1,27 @@
+body {font-family:Candara; background-color:#1b1b1b;}
+
+    h1 {color:#FFFFFF;
+        font-family:'Gill Sans';
+        font-size:30px;
+        text-align:center;
+        margin:15;}
+    h2 {color:#FFFFFF; 
+        font-family:'Times New Roman';
+        text-align: right;
+        margin:15;}
+    h3 {color:#FFFFFF; 
+        font-family:'Times New Roman';
+        text-align: right;
+        margin:15;}
+    p {margin:20px;
+        color:#FFFFFF;
+        font-family:Courier;
+        text-align:justify; 
+        font-size:18px;
+        text-indent: 15px}
+    .ImgP{width:75px;
+        height:75px;
+        border-radius:150px;
+        float:right;}
+    .ImgCenter{text-align:center;}
+    .ImgLeft{float: left;}
