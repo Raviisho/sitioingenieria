@@ -1,27 +1,52 @@
 body {font-family:Candara; background-color:#1b1b1b;}
-
+    
     h1 {color:#FFFFFF;
         font-family:'Gill Sans';
         font-size:30px;
         text-align:center;
         margin:15;}
+    
     h2 {color:#FFFFFF; 
         font-family:'Times New Roman';
         text-align: right;
         margin:15;}
+    
     h3 {color:#FFFFFF; 
         font-family:'Times New Roman';
         text-align: right;
         margin:15;}
-    p {margin:20px;
+    
+    p  {margin:20px;
         color:#FFFFFF;
         font-family:Courier;
         text-align:justify; 
         font-size:18px;
         text-indent: 15px}
+    
     .ImgP{width:75px;
         height:75px;
         border-radius:150px;
         float:right;}
+    
     .ImgCenter{text-align:center;}
     .ImgLeft{float: left;}
+    .apps{font-family:Segoe UI; color:#FFFFFF;}
+    
+    ul {list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color:#1b1b1b;}
+    
+    li  {float: left;}
+    
+    li a {display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;}
+    
+    li a:hover {background-color: #111;}
+    
+    table {text-align: center; color:#FFFFFF; font-family:Courier; margin: 0px auto; width: 80%; }
+    td {background-color: #474747;}
